@@ -10,7 +10,6 @@ function App() {
         <TopHeader> </TopHeader>
       </header>
       <main> 
-        <p> Dette er hoveddel</p>
       </main>
     </div>
   );
